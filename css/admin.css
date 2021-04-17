@@ -904,4 +904,8 @@ body {
 .orderTableWrap::-webkit-scrollbar {
   display: none;
 }
+.noOrderMsg {
+  text-align: center;
+  font-size: 1.5rem;
+}
 /*# sourceMappingURL=all.css.map */
